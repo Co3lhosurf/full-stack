@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 segunda commit
+=======
+terceiro commit
+>>>>>>> backend
